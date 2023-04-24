@@ -263,6 +263,8 @@ nav ul li a {
   text-transform: uppercase;
   color: #fff;
   text-shadow: 0 0 30px #000, 0 0 50px #0000FF;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
 }
 
 .header-content p {
